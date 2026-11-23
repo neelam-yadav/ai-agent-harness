@@ -1,0 +1,7 @@
+ILLUSTRATIVE FIXTURE — NOT LIVE PRICING
+Product: ClickUp (fictional demo pricing)
+Source: https://clickup.com/pricing
+Free Forever: $0 per user per month.
+Unlimited: $10 per user per month, billed monthly.
+Business: $19 per user per month, billed monthly.
+Enterprise: Contact sales.

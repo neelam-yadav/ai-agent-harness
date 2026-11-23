@@ -1,0 +1,7 @@
+ILLUSTRATIVE FIXTURE — NOT LIVE PRICING
+Product: Asana (fictional demo pricing)
+Source: https://asana.com/pricing
+Personal: $0 per user per month.
+Starter: $14 per user per month, billed monthly.
+Advanced: $31 per user per month, billed monthly.
+Enterprise: Contact sales.
