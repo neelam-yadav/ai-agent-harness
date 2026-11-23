@@ -157,7 +157,7 @@ The `output/` directory is created when you run the program and is not committed
 
 ## Video tutorial
 
-Watch the TechXOps walkthrough: **[Add YouTube video link after publishing]**
+Watch the TechXOps walkthrough: https://youtu.be/5MpGMmR6_3c
 
 Follow **TechXOps** for beginner-friendly, practical AI, AI agents and generative AI projects.
 
